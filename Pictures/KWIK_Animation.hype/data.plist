@@ -11,8 +11,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierPosition</string>
 		<string>kPropertiesMenuItemIdentifierAnimated</string>
+		<string>kPropertiesMenuItemIdentifierPosition</string>
 	</array>
 	<key>documentVersion</key>
 	<string>338</string>
@@ -27,13 +27,13 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2014-08-29T07:31:42Z</date>
+	<date>2014-08-29T09:22:20Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>66</real>
 		<key>mainWindowFrame</key>
-		<string>52 444 1540 718 0 0 2560 1418 </string>
+		<string>0 151 1440 718 0 0 1440 878 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -156,13 +156,13 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>5.8333334922790527</real>
+					<real>0.0</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1540, 469}</string>
+			<string>{1440, 636}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -179,9 +179,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -271,7 +271,7 @@
 							<key>identifier</key>
 							<string>AutoresizingMask</string>
 							<key>objectValue</key>
-							<string>36</string>
+							<string>5</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -329,9 +329,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FFFFFF</string>
 						</dict>
 					</array>
 					<key>3</key>
@@ -344,9 +344,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -422,6 +422,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>5</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
 							<string>157px</string>
@@ -440,15 +446,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>137px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>3</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>137px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -470,9 +476,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FFFFFF</string>
 						</dict>
 					</array>
 					<key>4</key>
@@ -491,9 +497,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -563,6 +569,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>5</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
 							<string>297px</string>
@@ -575,9 +587,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -587,9 +599,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>4</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -611,9 +623,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000000</string>
 						</dict>
 					</array>
 					<key>9</key>
@@ -689,6 +701,12 @@
 							<string>SizeRatio</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>5</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1565,9 +1583,14 @@
 			<key>oid</key>
 			<string>1</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 23}</string>
+			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>9</string>
+				<string>3</string>
+				<string>4</string>
+				<string>2</string>
+			</array>
 			<key>splitHeight</key>
 			<real>440</real>
 		</dict>
