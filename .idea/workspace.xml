@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b19e6f27-8040-447b-91a5-db70df9952a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distlogin.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact/default.html" afterPath="$PROJECT_DIR$/contact/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/defualt.html" afterPath="$PROJECT_DIR$/products/defualt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/distlogin.html" afterPath="$PROJECT_DIR$/distlogin.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/finddist.html" afterPath="$PROJECT_DIR$/finddist.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/history.html" afterPath="$PROJECT_DIR$/history.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -31,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62123495" vertical-offset="495" max-vertical-offset="3810">
-              <caret line="88" column="61" selection-start-line="88" selection-start-column="61" selection-end-line="88" selection-end-column="61" />
+            <state vertical-scroll-proportion="-62.833332" vertical-offset="1942" max-vertical-offset="3810">
+              <caret line="230" column="83" selection-start-line="230" selection-start-column="83" selection-end-line="230" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,8 @@
       <file leaf-file-name="history.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/history.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1425">
-              <caret line="10" column="103" selection-start-line="10" selection-start-column="103" selection-end-line="10" selection-end-column="103" />
+            <state vertical-scroll-proportion="-9.083333" vertical-offset="352" max-vertical-offset="1680">
+              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -54,8 +54,8 @@
       <file leaf-file-name="defualt.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/products/defualt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.25" vertical-offset="24" max-vertical-offset="1425">
-              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+            <state vertical-scroll-proportion="-50.875" vertical-offset="144" max-vertical-offset="1485">
+              <caret line="91" column="45" selection-start-line="69" selection-start-column="0" selection-end-line="91" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -64,8 +64,8 @@
       <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.75" vertical-offset="84" max-vertical-offset="1425">
-              <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+            <state vertical-scroll-proportion="-52.75" vertical-offset="84" max-vertical-offset="1470">
+              <caret line="90" column="45" selection-start-line="66" selection-start-column="0" selection-end-line="90" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -74,18 +74,18 @@
       <file leaf-file-name="finddist.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/finddist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-33.75" vertical-offset="0" max-vertical-offset="1425">
-              <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+            <state vertical-scroll-proportion="-53.375" vertical-offset="69" max-vertical-offset="1470">
+              <caret line="90" column="42" selection-start-line="66" selection-start-column="0" selection-end-line="90" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="distlogin.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="distlogin.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/distlogin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-40.25" vertical-offset="39" max-vertical-offset="1380">
-              <caret line="67" column="53" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.33557048" vertical-offset="0" max-vertical-offset="1410">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,8 +112,8 @@
         <option value="$PROJECT_DIR$/history.html" />
         <option value="$PROJECT_DIR$/products/defualt.html" />
         <option value="$PROJECT_DIR$/contact/default.html" />
-        <option value="$PROJECT_DIR$/distlogin.html" />
         <option value="$PROJECT_DIR$/finddist.html" />
+        <option value="$PROJECT_DIR$/distlogin.html" />
       </list>
     </option>
   </component>
@@ -438,50 +438,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-62.833332" vertical-offset="1942" max-vertical-offset="3810">
+          <caret line="230" column="83" selection-start-line="230" selection-start-column="83" selection-end-line="230" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/history.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1425">
-          <caret line="10" column="103" selection-start-line="10" selection-start-column="103" selection-end-line="10" selection-end-column="103" />
+        <state vertical-scroll-proportion="-9.083333" vertical-offset="352" max-vertical-offset="1680">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/defualt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.25" vertical-offset="24" max-vertical-offset="1425">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        <state vertical-scroll-proportion="-50.875" vertical-offset="144" max-vertical-offset="1485">
+          <caret line="91" column="45" selection-start-line="69" selection-start-column="0" selection-end-line="91" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.75" vertical-offset="84" max-vertical-offset="1425">
-          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distlogin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-40.25" vertical-offset="39" max-vertical-offset="1380">
-          <caret line="67" column="53" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
+        <state vertical-scroll-proportion="-52.75" vertical-offset="84" max-vertical-offset="1470">
+          <caret line="90" column="45" selection-start-line="66" selection-start-column="0" selection-end-line="90" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/finddist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.75" vertical-offset="0" max-vertical-offset="1425">
-          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+        <state vertical-scroll-proportion="-53.375" vertical-offset="69" max-vertical-offset="1470">
+          <caret line="90" column="42" selection-start-line="66" selection-start-column="0" selection-end-line="90" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/distlogin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62123495" vertical-offset="495" max-vertical-offset="3810">
-          <caret line="88" column="61" selection-start-line="88" selection-start-column="61" selection-end-line="88" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.33557048" vertical-offset="0" max-vertical-offset="1410">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
