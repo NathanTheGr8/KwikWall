@@ -27,7 +27,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2014-08-29T11:18:18Z</date>
+	<date>2014-08-29T17:48:38Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -162,7 +162,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1923, 447}</string>
+			<string>{1923, 448}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -1918,10 +1918,10 @@
 			<key>oid</key>
 			<string>1</string>
 			<key>scrollViewOffset</key>
-			<string>{206, 0}</string>
+			<string>{205.5, 0}</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>8</string>
+				<string>7</string>
 			</array>
 			<key>splitHeight</key>
 			<real>447.5</real>

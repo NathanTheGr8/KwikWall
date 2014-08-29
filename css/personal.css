@@ -8,3 +8,52 @@
 .info-divider {
     margin: 4px 0; /* Space out the Bootstrap <hr> more */
 }
+
+.centered
+{
+    margin:0 auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.alert-grey{
+    background-color: #B2B2B2;
+    color: #FFFFFF;
+}
+
+
+
+
+.btn-link {
+    color: #1f6551;
+    font-weight: normal;
+    cursor: pointer;
+    border-radius: 0;
+}
+.btn-link,
+.btn-link:active,
+.btn-link[disabled],
+fieldset[disabled] .btn-link {
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.btn-link,
+.btn-link:hover,
+.btn-link:focus,
+.btn-link:active {
+    border-color: transparent;
+}
+.btn-link:hover,
+.btn-link:focus {
+    color: #0d2a22;
+    text-decoration: underline;
+    background-color: transparent;
+}
+.btn-link[disabled]:hover,
+fieldset[disabled] .btn-link:hover,
+.btn-link[disabled]:focus,
+fieldset[disabled] .btn-link:focus {
+    color: #9da6a3;
+    text-decoration: none;
+}
