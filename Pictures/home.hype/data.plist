@@ -27,7 +27,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2014-08-29T17:48:38Z</date>
+	<date>2014-08-29T20:07:44Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -162,7 +162,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1923, 448}</string>
+			<string>{1923, 447}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -277,7 +277,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -424,7 +424,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>2</string>
+							<string>3</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -595,7 +595,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>4</string>
+							<string>5</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -758,7 +758,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>5</string>
+							<string>6</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -875,7 +875,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>6</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1921,7 +1921,7 @@
 			<string>{205.5, 0}</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>7</string>
+				<string>8</string>
 			</array>
 			<key>splitHeight</key>
 			<real>447.5</real>
