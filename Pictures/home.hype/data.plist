@@ -11,8 +11,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>338</string>
@@ -27,13 +27,13 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2014-08-29T09:22:52Z</date>
+	<date>2014-08-29T10:00:27Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>106</real>
 		<key>mainWindowFrame</key>
-		<string>190 89 1403 690 0 0 1440 878 </string>
+		<string>37 137 1403 690 0 0 1440 878 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -162,7 +162,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1923, 442}</string>
+			<string>{1438, 442}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -179,15 +179,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>FontWeight</string>
 							<key>objectValue</key>
 							<string>bold</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -275,9 +275,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -287,9 +287,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -311,9 +311,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>3</key>
@@ -326,15 +326,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>FontWeight</string>
 							<key>objectValue</key>
 							<string>bold</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#008300</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -422,9 +422,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>2</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -434,9 +434,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -458,9 +458,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#008300</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>5</key>
@@ -590,27 +590,27 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#A0A0A0</string>
+							<string>#DDEEFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#A0A0A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -656,13 +656,13 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#A0A0A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#A0A0A0</string>
 						</dict>
@@ -740,6 +740,21 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
+					<key>7</key>
+					<array>
+						<dict>
+							<key>identifier</key>
 							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>1px</string>
@@ -750,32 +765,17 @@
 							<key>objectValue</key>
 							<string>#DDEEFF</string>
 						</dict>
-					</array>
-					<key>7</key>
-					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
-							<key>objectValue</key>
-							<string>1px</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#A0A0A0</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -821,13 +821,13 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#A0A0A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#A0A0A0</string>
 						</dict>
@@ -903,17 +903,72 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#DDEEFF</string>
+							<string>div</string>
 						</dict>
 					</array>
+				</dict>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
 				</dict>
 				<key>properties</key>
 				<dict>
@@ -993,7 +1048,7 @@
 								<key>uuid</key>
 								<string>204FEEA7-70CB-4D4A-9F40-ECDCA4B74A21-3391-000009C97F4134EC</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1061,7 +1116,7 @@
 								<key>uuid</key>
 								<string>741F913D-F955-42B2-8C50-5351280CAB14-3391-000009DB80970D8C</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1197,7 +1252,7 @@
 								<key>uuid</key>
 								<string>E4FC2DC3-8B8B-4F3F-BDB4-EBBC873446A9-3391-00000B20DC9C3E3B</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1265,7 +1320,7 @@
 								<key>uuid</key>
 								<string>124A520B-ED4A-4D74-A47C-1312C298F0F9-3391-00000B2326EDCA23</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1299,7 +1354,7 @@
 								<key>uuid</key>
 								<string>5B775455-80C9-4652-8099-2CC5BC6F5452-3391-00000B29258CF44B</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1333,7 +1388,7 @@
 								<key>uuid</key>
 								<string>B1C9E3B3-2266-47AA-B470-44066339375A-3391-00000B2925AC42AE</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1367,7 +1422,7 @@
 								<key>uuid</key>
 								<string>C9B1ADD6-93DD-43FC-B153-C88578C74BA4-3391-00000B2941FA0AD3</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1401,7 +1456,7 @@
 								<key>uuid</key>
 								<string>3482B87B-1A04-4314-A8B9-A757D7572757-3391-00000B29421DDD5F</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1435,7 +1490,7 @@
 								<key>uuid</key>
 								<string>A3573B02-1A65-498E-AB3A-6E224C0E8207-3391-000009C97F25E158</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1462,7 +1517,7 @@
 								<key>uuid</key>
 								<string>FB714FA6-6B94-4481-AAE2-B5F9317F81AA-3391-000009C97F1FA97B</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1489,7 +1544,7 @@
 								<key>uuid</key>
 								<string>945EB7F3-E048-4613-9C8D-B3FE29D22B7D-3391-000009C97F4464E0</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1523,7 +1578,7 @@
 								<key>uuid</key>
 								<string>792E021E-ADFC-40CF-9A50-391FBEB6DFDF-3391-000009C97F2EC1CA</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1550,7 +1605,7 @@
 								<key>uuid</key>
 								<string>41231CCF-A18D-4748-87D1-9F991243DAC1-3391-000009C97F291A6D</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>7</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1577,7 +1632,7 @@
 								<key>uuid</key>
 								<string>26A1C356-0B8F-43AA-A301-1C3E9AA8E3A2-3391-000009D9B6416FC2</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1604,7 +1659,7 @@
 								<key>uuid</key>
 								<string>95CAF599-322C-48E5-A6DE-9ECD92618C89-3391-000009DB809E1FC0</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1638,7 +1693,7 @@
 								<key>uuid</key>
 								<string>C71552B3-32D7-481F-A71F-3ED4F83D1C6F-3391-000009C97F384C7F</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>8</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1665,7 +1720,7 @@
 								<key>uuid</key>
 								<string>AE1C3368-48D2-4D08-A5C1-829F728E72DF-3391-000009C97F31EAFA</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>9</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1692,7 +1747,7 @@
 								<key>uuid</key>
 								<string>4C312B89-1D33-4ADC-AF21-99F947CC14AF-3391-000009C97F3B82AD</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>10</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1719,7 +1774,7 @@
 								<key>uuid</key>
 								<string>0BCF6CE1-B13F-4A72-BB5D-A35462EB50CA-3391-00000AB5C28E3572</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1746,7 +1801,7 @@
 								<key>uuid</key>
 								<string>4983CF31-DE41-4141-97DD-1FDED42A1CD5-3391-00000AB5E94B2FC4</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1773,7 +1828,7 @@
 								<key>uuid</key>
 								<string>6E211586-9D1E-4165-AAE7-52F9089E2C1E-3391-00000B20D290DE94</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1800,7 +1855,7 @@
 								<key>uuid</key>
 								<string>A101D157-3E23-4946-884B-F91D5F2F728E-3391-00000B20DCA3444A</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1827,7 +1882,7 @@
 								<key>uuid</key>
 								<string>364B74F8-4C2B-4A4C-BB2A-A3C6BA52BC8E-3391-00000B20DCB5DC09</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1854,7 +1909,7 @@
 								<key>uuid</key>
 								<string>569D660C-C6FC-468E-B44F-E52097010514-3391-00000B2326F88BC1</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1881,7 +1936,7 @@
 								<key>uuid</key>
 								<string>7352A758-DF85-41CE-B226-9935E206A11C-3391-00000B29259E8349</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1908,7 +1963,7 @@
 								<key>uuid</key>
 								<string>E7CFE77F-41A8-4470-A9EE-4720A4FC55FA-3391-00000B2925B17C93</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1935,7 +1990,7 @@
 								<key>uuid</key>
 								<string>3D041CB8-8244-4F7E-8EFC-3151CBEEF32D-3391-00000B2942056B65</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1962,7 +2017,7 @@
 								<key>uuid</key>
 								<string>BF21A599-197E-4A3F-81CE-E14367093056-3391-00000B2942243D56</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
