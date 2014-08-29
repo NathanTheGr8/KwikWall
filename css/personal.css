@@ -4,3 +4,7 @@
     vertical-align: middle;
     float: none;
 }
+
+.info-divider {
+    margin: 4px 0; /* Space out the Bootstrap <hr> more */
+}
