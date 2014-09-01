@@ -13,6 +13,9 @@
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet/less" href="/less/bootstrap.less">
+    <link href="css/responsive-utilities.less" rel="stylesheet/less">
+
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
@@ -39,8 +42,8 @@
     <!--Google Maps size-->
     <!--So this should be 500by 500 but for some reason images get downscalled to 460by 460 on my screen-->
     <style>
+        #map-container-small { height: 280px; width: 280px }
         #map-container { height: 460px; width: 460px }
-
     </style>
 
     <!--padding for fixed top nav bar-->
@@ -101,11 +104,18 @@
     </div>
 
 
-    <div class="container-fluid">
+
+
+    <div class="container-fluid hidden-sm hidden-xs">
         <iframe class="text-center" width="100%" height="550px" src="Pictures/FrontPageFull.html"
-                data-src-960px="Pictures/mobile.html"
-                data-src-1260px="Pictures/FrontPageFull.html"
-                style="border:0px" scrolling="no" seamless></iframe>
+                style="border:0px" scrolling="no" seamless>
+        </iframe>
+    </div>
+
+    <div class="container-fluid hidden-lg hidden-md">
+        <iframe class="text-center" width="100%" height="410px" src="Pictures/mobile.html"
+                style="border:0px" scrolling="no" seamless>
+        </iframe>
     </div>
 
 
@@ -160,7 +170,8 @@
         <div  class="row featurette">
             <div class="col-md-5 col-sm-6">
                 <!--Google Maps-->
-                <div id="map-container"></div>
+                <div class="visible-lg" id="map-container"></div>
+                <div class="hidden-lg" id="map-container-small"></div>
             </div>
             <div class="col-md-7 col-sm-6">
                 <h2 class="featurette-heading">Contact Us <span class="text-success">Here</span></h2>
@@ -216,6 +227,8 @@
 
             var map = new google.maps.Map(document.getElementById("map-container"),
                     mapOptions);
+            var map = new google.maps.Map(document.getElementById("map-container-small"),
+                    mapOptions);
 
             marker.setMap(map);
 
@@ -231,5 +244,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/docs.min.js"></script>
+    <!--<script src="/path/to/less.js"></script>-->
 </body>
+
 </html>

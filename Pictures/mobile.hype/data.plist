@@ -27,7 +27,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2014-08-31T22:44:26Z</date>
+	<date>2014-09-01T06:09:22Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -145,7 +145,7 @@
 	<key>sceneScalePercentageSize</key>
 	<string>{1, 1}</string>
 	<key>sceneSize</key>
-	<string>{320, 460}</string>
+	<string>{500, 410}</string>
 	<key>scenes</key>
 	<array>
 		<dict>
@@ -156,13 +156,13 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>4.8000001907348633</real>
+					<real>4.5</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{1461, 500}</string>
+			<string>{1553, 486}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -263,6 +263,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>37</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
 							<string>-551px</string>
@@ -289,7 +295,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>96px</string>
+							<string>188px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -376,7 +382,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>439px</string>
+							<string>390px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -418,7 +424,7 @@
 							<key>identifier</key>
 							<string>AutoresizingMask</string>
 							<key>objectValue</key>
-							<string>36</string>
+							<string>13</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -442,7 +448,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>96px</string>
+							<string>188px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -529,7 +535,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>80px</string>
+							<string>55px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -559,13 +565,19 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>7px</string>
+							<string>94px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>SizeRatio</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>5</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -670,7 +682,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>190px</string>
+							<string>165px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -698,9 +710,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>5</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>28px</string>
+							<string>118px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -811,7 +829,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>237px</string>
+							<string>212px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -839,9 +857,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>5</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>78px</string>
+							<string>165px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -896,7 +920,7 @@
 				<key>properties</key>
 				<dict>
 					<key>backgroundColor</key>
-					<string>#929292</string>
+					<string>#A9A9A9</string>
 					<key>perspective</key>
 					<real>600</real>
 				</dict>
@@ -1035,7 +1059,7 @@
 									<key>identifier</key>
 									<string>Width</string>
 									<key>objectValue</key>
-									<string>1419px</string>
+									<string>1511px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Width</string>
@@ -1050,7 +1074,7 @@
 									<key>identifier</key>
 									<string>Width</string>
 									<key>objectValue</key>
-									<string>96px</string>
+									<string>188px</string>
 								</dict>
 								<key>timingFunction</key>
 								<string>easeinout</string>
@@ -1103,7 +1127,7 @@
 									<key>identifier</key>
 									<string>Width</string>
 									<key>objectValue</key>
-									<string>1419px</string>
+									<string>1511px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Width</string>
@@ -1118,7 +1142,7 @@
 									<key>identifier</key>
 									<string>Width</string>
 									<key>objectValue</key>
-									<string>96px</string>
+									<string>188px</string>
 								</dict>
 								<key>timingFunction</key>
 								<string>easeinout</string>
@@ -1315,7 +1339,7 @@
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>7px</string>
+									<string>94px</string>
 								</dict>
 								<key>timingFunction</key>
 								<string>easeinout</string>
@@ -1464,7 +1488,7 @@
 									<key>identifier</key>
 									<string>Width</string>
 									<key>objectValue</key>
-									<string>1419px</string>
+									<string>1511px</string>
 								</dict>
 								<key>timingFunction</key>
 								<string>easeinout</string>
@@ -1545,7 +1569,7 @@
 									<key>identifier</key>
 									<string>Width</string>
 									<key>objectValue</key>
-									<string>1419px</string>
+									<string>1511px</string>
 								</dict>
 								<key>timingFunction</key>
 								<string>easeinout</string>
@@ -1739,11 +1763,9 @@
 			<key>oid</key>
 			<string>1</string>
 			<key>scrollViewOffset</key>
-			<string>{11, 1}</string>
+			<string>{101, 0}</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>5</string>
-			</array>
+			<array/>
 			<key>splitHeight</key>
 			<real>486</real>
 		</dict>
@@ -1753,7 +1775,7 @@
 	<key>shouldScaleSceneHeight</key>
 	<false/>
 	<key>shouldScaleSceneWidth</key>
-	<false/>
+	<true/>
 	<key>showLoadingPage</key>
 	<false/>
 	<key>showRulers</key>
