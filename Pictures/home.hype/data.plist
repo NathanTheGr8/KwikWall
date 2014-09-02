@@ -27,13 +27,21 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
+<<<<<<< HEAD
 	<date>2014-08-31T07:22:43Z</date>
+=======
+	<date>2014-09-01T06:07:28Z</date>
+>>>>>>> FETCH_HEAD
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
 		<real>106</real>
 		<key>mainWindowFrame</key>
+<<<<<<< HEAD
 		<string>717 301 1403 690 0 0 2560 1418 </string>
+=======
+		<string>37 137 1403 690 0 0 1440 878 </string>
+>>>>>>> FETCH_HEAD
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -91,7 +99,7 @@
 		<array>
 			<dict>
 				<key>fileModificationDate</key>
-				<date>2014-08-29T10:04:19Z</date>
+				<date>2014-08-31T21:19:50Z</date>
 				<key>fileSize</key>
 				<integer>3209</integer>
 				<key>md5</key>
@@ -104,18 +112,18 @@
 				<string>wall_logo.png</string>
 				<key>securityScopedBookmark</key>
 				<data>
-				Ym9vaxQDAAAAAAQQMAAAAKxKXwpJE4GVfGn7Ahr0JKrg
-				p94lILcpJL4oCBZb0+l9HAIAAAUAAAABAQAAVXNlcnMA
+				Ym9vaxQDAAAAAAQQMAAAAJtRVD0Ksrkp4YmBVGCjB2VT
+				mb0KQOYdagTXsjKIfz3+HAIAAAUAAAABAQAAVXNlcnMA
 				AAAGAAAAAQEAAG5hdGhhbgAACAAAAAEBAABwcm9qZWN0
 				cwMAAAABAQAAd2ViAAgAAAABAQAAS3dpa1dhbGwIAAAA
 				AQEAAFBpY3R1cmVzDQAAAAEBAAB3YWxsX2xvZ28ucG5n
 				AAAAHAAAAAEGAAAEAAAAFAAAACQAAAA0AAAAQAAAAFAA
 				AABgAAAACAAAAAQDAADZZQIAAAAAAAgAAAAEAwAAif4I
 				AAAAAAAIAAAABAMAAADJKwAAAAAACAAAAAQDAAAKySsA
-				AAAAAAgAAAAEAwAAQCt2AAAAAAAIAAAABAMAAHordgAA
-				AAAACAAAAAQDAACbK3YAAAAAABwAAAABBgAAnAAAAKwA
-				AAC8AAAAzAAAANwAAADsAAAA/AAAAAgAAAAABAAAQbmw
-				aMMAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAA
+				AAAAAAgAAAAEAwAAQCt2AAAAAAAIAAAABAMAAGsLeQAA
+				AAAACAAAAAQDAADqC3kAAAAAABwAAAABBgAAnAAAAKwA
+				AAC8AAAAzAAAANwAAADsAAAA/AAAAAgAAAAABAAAQbmz
+				yPYAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAA
 				AAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAM
 				AAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAALCDwugA
 				AAAIAAAAAAQAAEG4symYAAAAJAAAAAEBAABGRkNFNjEw
@@ -162,7 +170,11 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
+<<<<<<< HEAD
 			<string>{1923, 443}</string>
+=======
+			<string>{1403, 443}</string>
+>>>>>>> FETCH_HEAD
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -1918,12 +1930,18 @@
 			<key>oid</key>
 			<string>1</string>
 			<key>scrollViewOffset</key>
+<<<<<<< HEAD
 			<string>{225, 0}</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>2</string>
 				<string>3</string>
 			</array>
+=======
+			<string>{0, 0}</string>
+			<key>selectedObjects</key>
+			<array/>
+>>>>>>> FETCH_HEAD
 			<key>splitHeight</key>
 			<real>443</real>
 		</dict>
