@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b19e6f27-8040-447b-91a5-db70df9952a1" name="Default" comment="" />
+    <list default="true" id="b19e6f27-8040-447b-91a5-db70df9952a1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/FrontPageFull.hype/Thumbnails/1.tiff" afterPath="$PROJECT_DIR$/Pictures/FrontPageFull.hype/Thumbnails/1.tiff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/FrontPageFull.hype/Thumbnails/62.tiff" afterPath="$PROJECT_DIR$/Pictures/FrontPageFull.hype/Thumbnails/62.tiff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/FrontPageFull.hyperesources/FC043E-restorable.plist" afterPath="$PROJECT_DIR$/Pictures/FrontPageFull.hyperesources/FC043E-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/FrontPageFull.html" afterPath="$PROJECT_DIR$/Pictures/FrontPageFull.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/FrontPageFull.hype/data.plist" afterPath="$PROJECT_DIR$/Pictures/FrontPageFull.hype/data.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/FrontPageFull.hyperesources/frontpagefull_hype_generated_script.js" afterPath="$PROJECT_DIR$/Pictures/FrontPageFull.hyperesources/frontpagefull_hype_generated_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="KwikWall.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
