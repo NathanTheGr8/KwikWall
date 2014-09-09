@@ -7,7 +7,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentScene</key>
-	<string>99</string>
+	<string>62</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -68,7 +68,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2014-09-09T00:02:39Z</date>
+	<date>2014-09-09T00:59:44Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -1486,7 +1486,7 @@
 							<key>sceneSymbol</key>
 							<integer>1</integer>
 							<key>transition</key>
-							<integer>5</integer>
+							<integer>3</integer>
 							<key>type</key>
 							<integer>1</integer>
 						</dict>
@@ -5541,7 +5541,7 @@
 							<key>sceneSymbol</key>
 							<integer>1</integer>
 							<key>transition</key>
-							<integer>5</integer>
+							<integer>3</integer>
 							<key>type</key>
 							<integer>1</integer>
 						</dict>
